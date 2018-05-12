@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/586
     wikipedia: http://en.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18101#-Einleitung-zu---Thomas-Carlyle-Leben-Schillers
 gutenberg_bookshelf: DE Prosa
 gutenberg_issued: '2006-04-02'
 gutenberg_type: Text
