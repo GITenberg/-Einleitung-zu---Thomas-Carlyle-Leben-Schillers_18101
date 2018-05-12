@@ -1,0 +1,38 @@
+_repo: -Einleitung-zu---Thomas-Carlyle-Leben-Schillers_18101
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Carlyle, Thomas
+    alias: Carlyle, T. (Thomas)
+    birthdate: 1795
+    deathdate: 1881
+    gutenberg_agent_id: '523'
+    url: http://www.gutenberg.org/2009/agents/523
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Carlyle
+  - agent_name: Goethe, Johann Wolfgang von
+    aliases:
+    - Goethe, J. W. (Johann Wolfgang)
+    - Von Goethe, Johann Wolfgang
+    birthdate: 1749
+    deathdate: 1832
+    gutenberg_agent_id: '586'
+    url: http://www.gutenberg.org/2009/agents/586
+    wikipedia: http://en.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe
+description: ''
+gutenberg_bookshelf: DE Prosa
+gutenberg_issued: '2006-04-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18101'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Prefaces'
+- !lcc 'PT'
+title: '[Einleitung zu:] Thomas Carlyle, Leben Schillers'
+url: http://www.gutenberg.org/ebooks/18101
